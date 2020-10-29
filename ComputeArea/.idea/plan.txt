@@ -1,0 +1,16 @@
+1. requirement specifications
+    have user input a, b, c and make it so it calculates the zeros of a given quadratic
+
+2. system analysis
+    r1 = (-b + sqrt(b^2 - 4ac)) / 2a
+    r2 = (-b - sqrt(b^2 - 4ac)) / 2a
+
+    b^2 - 4ac
+
+3. system design
+    a. prompt user
+    b. have user enter in a b and c
+    c. calculate how many zeros there are
+    d. if no zeros, say no zeros
+    e. if more than that calculate the zeros
+    d. print a message
